@@ -5,7 +5,7 @@ function openProject(url) {
   
   // 2. Go back to profile page
   function goBack() {
-    window.location.href = 'class2.html';
+    window.location.href = 'index2.html';
   }
   
   // 3. Toggle dark mode
